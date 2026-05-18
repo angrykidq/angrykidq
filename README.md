@@ -41,7 +41,7 @@ Roblox / LuaU systems developer focused on gameplay mechanics, modular framework
 
 -![demo](StarPoint-Gameplay.gif)
 
-Physics-based space combat game where players upgrade ships and fight using modular systems.
+Physics-based space combat game where players upgrade ships and fight.
 
 ---
 
